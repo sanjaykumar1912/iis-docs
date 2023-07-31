@@ -15,7 +15,7 @@ Classic ASP Parent Paths let developers use relative addresses that contain ".."
 
 [!code-xml[Main](classic-asp-parent-paths-are-disabled-by-default/samples/sample1.xml)]
 
-In addition, the following code except illustrates an ASP page that references an included file in a folder that uses a parent path:
+In addition, the following code excerpt illustrates an ASP page that references an included file in a folder that uses a parent path:
 
 [!code-xml[Main](classic-asp-parent-paths-are-disabled-by-default/samples/sample2.xml)]
 
